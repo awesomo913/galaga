@@ -1,0 +1,188 @@
+[16:01:05] === HUNT LOOP start: 5h, state={"iters": 0, "fixes": 0, "upgrades": 0, "tokens": 0, "feat_idx": 0} ===
+[16:01:25] [iter 1] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:02:24]   fix pass failed (pool rate-limited) — retry next loop
+[16:04:44] [iter 2] clean — upgrade: Fix the HUD overlap: move score/high-score/level/lives into ...
+[16:05:56]   upgrade failed (pool rate-limited) — retry next loop
+[16:08:18] [iter 3] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:09:18]   fix pass failed (pool rate-limited) — retry next loop
+[16:11:38] [iter 4] clean — upgrade: Add POWERUPS that drop from destroyed enemies: weapon upgrad...
+[16:12:40]   upgrade failed (pool rate-limited) — retry next loop
+[16:15:00] [iter 5] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:16:16]   fix pass failed (pool rate-limited) — retry next loop
+[16:18:37] [iter 6] clean — upgrade: Add a combo/score MULTIPLIER: destroying enemies in quick su...
+[16:19:37]   upgrade failed (pool rate-limited) — retry next loop
+[16:21:57] [iter 7] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:22:57]   fix pass failed (pool rate-limited) — retry next loop
+[16:25:17] [iter 8] FOUND 1 problem(s): ['canvas transform drift (screen shake not reset)']
+[16:26:33]   fix pass failed (pool rate-limited) — retry next loop
+[16:28:53] [iter 9] clean — upgrade: Improve the BOSS fight: give it 3 distinct attack phases (ai...
+[16:29:52]   upgrade failed (pool rate-limited) — retry next loop
+[16:32:12] [iter 10] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:33:17]   fix pass failed (pool rate-limited) — retry next loop
+[16:35:37] [iter 11] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:36:55]   fix pass failed (pool rate-limited) — retry next loop
+[16:39:15] [iter 12] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:40:14]   fix pass failed (pool rate-limited) — retry next loop
+[16:42:33] [iter 13] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:43:43]   fix pass failed (pool rate-limited) — retry next loop
+[16:46:05] [iter 14] clean — upgrade: Add a subtle screen-space particle trail behind the player's...
+[16:48:40]   upgrade failed (pool rate-limited) — retry next loop
+[16:51:00] [iter 15] clean — upgrade: Add difficulty curve polish: enemies get slightly faster and...
+[16:52:24]   upgrade failed (pool rate-limited) — retry next loop
+[16:54:44] [iter 16] clean — upgrade: Add sound polish: a distinct rising-pitch sound for the leve...
+[16:55:45]   upgrade failed (pool rate-limited) — retry next loop
+[16:58:05] [iter 17] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[16:59:26]   fix pass failed (pool rate-limited) — retry next loop
+[17:01:48] [iter 18] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[17:02:48]   fix pass failed (pool rate-limited) — retry next loop
+[17:05:07] [iter 19] FOUND 1 problem(s): ["Cannot read properties of undefined (reading 'score')"]
+[17:06:16]   fix pass failed (pool rate-limited) — retry next loop
+[17:08:35] [iter 20] clean — upgrade: Add a PAUSE overlay with 'P to resume' and a small controls ...
+[17:10:04]   upgraded via awesomo913+37@gmail.com (+13991 tok)
+[17:12:05] [iter 21] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:12:23]   fixed via solidgoldbarsinmycloset+20@gmail.com (+14200 tok)
+[17:14:24] [iter 22] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:14:56]   fixed via twoinwonderland69+04@gmail.com (+14197 tok)
+[17:16:57] [iter 23] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:17:56]   fix pass failed (pool rate-limited) — retry next loop
+[17:19:57] [iter 24] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:20:59]   fix pass failed (pool rate-limited) — retry next loop
+[17:23:00] [iter 25] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:24:21]   fix pass failed (pool rate-limited) — retry next loop
+[17:26:22] [iter 26] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:27:39]   fix pass failed (pool rate-limited) — retry next loop
+[17:29:41] [iter 27] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:30:40]   fix pass failed (pool rate-limited) — retry next loop
+[17:32:41] [iter 28] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:33:40]   fix pass failed (pool rate-limited) — retry next loop
+[17:35:42] [iter 29] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:36:57]   fix pass failed (pool rate-limited) — retry next loop
+[17:38:58] [iter 30] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:40:13]   fix pass failed (pool rate-limited) — retry next loop
+[17:42:15] [iter 31] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:43:37]   fix pass failed (pool rate-limited) — retry next loop
+[17:45:38] [iter 32] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:46:49]   fix pass failed (pool rate-limited) — retry next loop
+[17:48:50] [iter 33] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:50:05]   fix pass failed (pool rate-limited) — retry next loop
+[17:52:06] [iter 34] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:53:26]   fix pass failed (pool rate-limited) — retry next loop
+[17:55:27] [iter 35] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:56:31]   fix pass failed (pool rate-limited) — retry next loop
+[17:58:32] [iter 36] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[17:59:46]   fix pass failed (pool rate-limited) — retry next loop
+[18:01:47] [iter 37] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:03:03]   fix pass failed (pool rate-limited) — retry next loop
+[18:05:04] [iter 38] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:06:28]   fix pass failed (pool rate-limited) — retry next loop
+[18:08:29] [iter 39] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:09:38]   fix pass failed (pool rate-limited) — retry next loop
+[18:11:39] [iter 40] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:12:45]   fix pass failed (pool rate-limited) — retry next loop
+[18:14:46] [iter 41] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:16:10]   fix pass failed (pool rate-limited) — retry next loop
+[18:18:11] [iter 42] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:19:11]   fix pass failed (pool rate-limited) — retry next loop
+[18:21:12] [iter 43] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:22:32]   fix pass failed (pool rate-limited) — retry next loop
+[18:24:33] [iter 44] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:25:45]   fix pass failed (pool rate-limited) — retry next loop
+[18:27:46] [iter 45] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:29:06]   fix pass failed (pool rate-limited) — retry next loop
+[18:31:07] [iter 46] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:32:15]   fix pass failed (pool rate-limited) — retry next loop
+[18:34:16] [iter 47] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:35:36]   fix pass failed (pool rate-limited) — retry next loop
+[18:37:37] [iter 48] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:38:53]   fix pass failed (pool rate-limited) — retry next loop
+[18:41:10] [iter 49] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:42:10]   fix pass failed (pool rate-limited) — retry next loop
+[18:44:11] [iter 50] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:45:20]   fix pass failed (pool rate-limited) — retry next loop
+[18:47:22] [iter 51] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:48:47]   fix pass failed (pool rate-limited) — retry next loop
+[18:50:48] [iter 52] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:51:52]   fix pass failed (pool rate-limited) — retry next loop
+[18:53:53] [iter 53] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:54:55]   fix pass failed (pool rate-limited) — retry next loop
+[18:56:56] [iter 54] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[18:58:00]   fix pass failed (pool rate-limited) — retry next loop
+[19:00:01] [iter 55] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:01:21]   fix pass failed (pool rate-limited) — retry next loop
+[19:03:23] [iter 56] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:04:26]   fix pass failed (pool rate-limited) — retry next loop
+[19:06:27] [iter 57] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:07:47]   fix pass failed (pool rate-limited) — retry next loop
+[19:09:48] [iter 58] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:11:05]   fix pass failed (pool rate-limited) — retry next loop
+[19:13:06] [iter 59] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:14:29]   fix pass failed (pool rate-limited) — retry next loop
+[19:16:30] [iter 60] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:17:30]   fix pass failed (pool rate-limited) — retry next loop
+[19:19:32] [iter 61] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:20:40]   fix pass failed (pool rate-limited) — retry next loop
+[19:22:41] [iter 62] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:23:49]   fix pass failed (pool rate-limited) — retry next loop
+[19:25:50] [iter 63] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:27:10]   fix pass failed (pool rate-limited) — retry next loop
+[19:29:11] [iter 64] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:30:11]   fix pass failed (pool rate-limited) — retry next loop
+[19:32:12] [iter 65] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:33:22]   fix pass failed (pool rate-limited) — retry next loop
+[19:35:23] [iter 66] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:36:23]   fix pass failed (pool rate-limited) — retry next loop
+[19:38:24] [iter 67] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:39:39]   fix pass failed (pool rate-limited) — retry next loop
+[19:41:40] [iter 68] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:42:41]   fix pass failed (pool rate-limited) — retry next loop
+[19:44:42] [iter 69] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:45:47]   fix pass failed (pool rate-limited) — retry next loop
+[19:47:48] [iter 70] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:48:56]   fix pass failed (pool rate-limited) — retry next loop
+[19:50:57] [iter 71] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:52:11]   fix pass failed (pool rate-limited) — retry next loop
+[19:54:12] [iter 72] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:55:14]   fix pass failed (pool rate-limited) — retry next loop
+[19:57:15] [iter 73] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[19:58:20]   fix pass failed (pool rate-limited) — retry next loop
+[20:00:22] [iter 74] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:01:33]   fix pass failed (pool rate-limited) — retry next loop
+[20:03:34] [iter 75] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:04:33]   fix pass failed (pool rate-limited) — retry next loop
+[20:06:34] [iter 76] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:07:38]   fix pass failed (pool rate-limited) — retry next loop
+[20:09:39] [iter 77] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:11:00]   fix pass failed (pool rate-limited) — retry next loop
+[20:13:01] [iter 78] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:14:29]   fix pass failed (pool rate-limited) — retry next loop
+[20:16:30] [iter 79] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:17:29]   fix pass failed (pool rate-limited) — retry next loop
+[20:19:30] [iter 80] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:20:41]   fix pass failed (pool rate-limited) — retry next loop
+[20:22:42] [iter 81] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:23:43]   fix pass failed (pool rate-limited) — retry next loop
+[20:25:44] [iter 82] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:26:46]   fix pass failed (pool rate-limited) — retry next loop
+[20:28:47] [iter 83] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:29:48]   fix pass failed (pool rate-limited) — retry next loop
+[20:31:49] [iter 84] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:33:11]   fix pass failed (pool rate-limited) — retry next loop
+[20:35:12] [iter 85] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:36:14]   fix pass failed (pool rate-limited) — retry next loop
+[20:38:15] [iter 86] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:39:35]   fix pass failed (pool rate-limited) — retry next loop
+[20:41:36] [iter 87] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:42:53]   fix pass failed (pool rate-limited) — retry next loop
+[20:44:54] [iter 88] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:46:12]   fix pass failed (pool rate-limited) — retry next loop
+[20:48:13] [iter 89] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:49:28]   fix pass failed (pool rate-limited) — retry next loop
+[20:51:29] [iter 90] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:52:31]   fix pass failed (pool rate-limited) — retry next loop
+[20:54:32] [iter 91] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:55:46]   fix pass failed (pool rate-limited) — retry next loop
+[20:57:47] [iter 92] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[20:58:50]   fix pass failed (pool rate-limited) — retry next loop
+[21:00:51] [iter 93] FOUND 1 problem(s): ['test harness error: Page.evaluate: ReferenceError: isPlaying is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:1:18)\n    at UtilityScript.evaluate (<anonymous>:309:18)\n    at UtilityScript.<anonymous> (']
+[21:01:50]   fix pass failed (pool rate-limited) — retry next loop
+[21:03:50] === HUNT LOOP end: {"iters": 93, "fixes": 2, "upgrades": 1, "tokens": 42388, "feat_idx": 8} ===

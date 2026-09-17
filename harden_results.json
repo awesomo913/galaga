@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "name": "loads without page errors",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "canvas present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "starts on ENTER",
+      "ok": true,
+      "detail": "{'playing': True, 'enemies': 32, 'wave': 0, 'lives': 3}"
+    },
+    {
+      "name": "enemy formation is ON-SCREEN at start",
+      "ok": true,
+      "detail": "32/32 enemies have on-screen y (min y=20)"
+    },
+    {
+      "name": "formation moves (bob) between dives",
+      "ok": true,
+      "detail": "x 35 -> 13"
+    },
+    {
+      "name": "player clamps to left edge (x>=0)",
+      "ok": true,
+      "detail": "x=0.0"
+    },
+    {
+      "name": "player clamps to right edge (x<=450)",
+      "ok": true,
+      "detail": "x=450.0"
+    },
+    {
+      "name": "space fires a bullet",
+      "ok": true,
+      "detail": "bullets=1"
+    },
+    {
+      "name": "canvas transform resets (no drift after shake)",
+      "ok": true,
+      "detail": "transform e=0.00 f=0.00"
+    },
+    {
+      "name": "diving enemies return to formation (y==gridY)",
+      "ok": true,
+      "detail": "29/32 returned y to grid"
+    },
+    {
+      "name": "wave increments when cleared",
+      "ok": true,
+      "detail": "wave=1"
+    },
+    {
+      "name": "restart resets lives to 3 + clears stale bullets",
+      "ok": true,
+      "detail": "{'playing': True, 'lives': 3, 'score': 0, 'ebullets': 0}"
+    }
+  ],
+  "shots": {
+    "start_screen": "C:/Users/computer/Desktop/AI/galaga/harden_01_start.png",
+    "after_start": "C:/Users/computer/Desktop/AI/galaga/harden_02_started.png",
+    "game_over": "C:/Users/computer/Desktop/AI/galaga/harden_03_gameover.png"
+  },
+  "errors": []
+}
